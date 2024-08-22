@@ -1,4 +1,4 @@
-bigpicture-node Test
+bigpicture-node
 ===============
 
 Node library for querying the [BigPicture](https://bigpicture.io) APIs. Currently supports:
